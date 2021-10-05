@@ -1,6 +1,8 @@
 # spoonify
 This project is the result of a team four-day hackathon realized during the Immersive Program at [Code Chrysalis](https://www.codechrysalis.io/).
 
+Please view the application at: https://spoonify-prod.herokuapp.com/
+
 ## Background
 The constraints around this hackathon were the following:
 * building a full-stack app and present it live on Youtube, everythign in 4 days.
